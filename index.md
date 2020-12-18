@@ -27,7 +27,7 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
 
 ### Attention vs. Productivity
 
-
+First, in order to visualize our data, we plot histrogram of the number of followers, followees and posts up to the third quantile. 
 <p align="center">
 <img src="./AP4.png" width="500" />
  </p>
